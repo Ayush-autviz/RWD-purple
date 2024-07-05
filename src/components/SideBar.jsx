@@ -12,7 +12,7 @@ const SideBar = () => {
       <img  className='cursor-pointer image-color' src="lucide_user.svg" />
       </div>
       <div>
-        <img className='cursor-pointer image-color' src="humbleicons_logout.svg" />
+        <img className='cursor-pointer logout-icon' src="humbleicons_logout.svg" />
       </div>
     </div>
   );

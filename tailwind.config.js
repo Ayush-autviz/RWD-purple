@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       boxShadow: {
-        'custom': '1px 0px 14px 0px #cccccc6b',
-        'custom-1': '0px 2px 14px 0px #cccccc6b',
+        'custom': '1px 0px 14px 0px rgba(147, 0, 255, 0.06)',
+        'custom-1': '0px 2px 14px 0px rgba(147, 0, 255, 0.10)'
       },
       animation: {
         fade: 'fadeOut 1s ease-in-out',

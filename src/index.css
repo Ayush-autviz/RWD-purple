@@ -7,9 +7,14 @@
   padding: 10px;
   transition: all 1s ease-in-out 0.5s;
 }
+.logout-icon{
+  filter: brightness(0) saturate(100%) invert(18%) sepia(3%) saturate(0%) hue-rotate(203deg) brightness(90%) contrast(87%);
+}
+
+
 .image-color:hover {
-  filter: brightness(0) saturate(100%) invert(66%) sepia(53%) saturate(433%) hue-rotate(77deg) brightness(99%) contrast(101%);
-  background-color: #39393918;
+  filter: brightness(0) saturate(100%) invert(14%) sepia(82%) saturate(7452%) hue-rotate(274deg) brightness(94%) contrast(107%);
+  background-color: #9500ff12;
   padding: 10px;
   transition: all 1s  ease-in-out;
   transition-delay: 0s;
@@ -30,8 +35,8 @@
   filter: brightness(0) invert(1);
 }
 .filter-purple {
-  /* filter: invert(21%) sepia(96%) saturate(7500%) hue-rotate(268deg) brightness(97%) contrast(112%); */
-  filter: hue-rotate(90deg) brightness(1.5);
+  filter: invert(21%) sepia(96%) saturate(7500%) hue-rotate(268deg) brightness(97%) contrast(112%);
+  /* filter: hue-rotate(90deg) brightness(1.5); */
 }
 
 .image-brown{
